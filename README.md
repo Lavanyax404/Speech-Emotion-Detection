@@ -13,4 +13,4 @@ There are 3 things which can be done:
 
 ## Limitations:
 *   "Emotions" are hard to annotate, even for humans. There is no "Perfect" dataset for such problem.
-*   [Here's a great article](https://towardsdatascience.com/whats-wrong-with-spectrograms-and-cnns-for-audio-processing-311377d7ccd) as to why convolutions and spectrograms are not "ideal" for audio processing.
+
